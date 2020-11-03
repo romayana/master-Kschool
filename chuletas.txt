@@ -1,1 +1,2 @@
 https://codingpotions.com/git-comandos-basicos-avanzados
+https://www.codegrepper.com/code-examples/shell/git+change+username+and+email+command+line
